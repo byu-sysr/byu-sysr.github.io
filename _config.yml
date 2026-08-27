@@ -195,6 +195,8 @@ newsletter:
 collections:
   books:
     output: false
+  members:
+    output: false
   news:
     defaults:
       layout: post
