@@ -14,7 +14,7 @@ announcements:
 
 {% include figure.liquid path="assets/img/sysr.png" class="img-fluid" %}
 
-The SySR Lab at Brigham Young University explores longstanding and emerging security concerns in systems/network security and privacy. Our research focuses include new techniques for automated vulnerability exploration, discovery and measurement of privacy and security concerns in cellular mobile networks, and design of secure-by-construction abstractions for low-level systems.
+The Systems & Security Research (SySR) Lab at Brigham Young University explores longstanding and emerging security concerns in systems/network security and privacy. Our research focuses include new techniques for automated vulnerability exploration, discovery and measurement of privacy and security concerns in cellular mobile networks, and design of secure-by-construction abstractions for low-level systems.
 
 We are currently looking for undergraduate and graduate students interested in carrying out systems security research; see [here](/collaborate) for details.
 
